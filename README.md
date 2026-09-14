@@ -4,7 +4,7 @@
 ---
 
 ## 🌐 Overview
-I approach frontier artificial intelligence not just as software, but as high-dimensional informational architecture. Drawing on a background in design methodology and spatial systems thinking, I lead **Architecting AI Studio**—an independent research lab dedicated to mapping the capabilities, structural limitations, and alignment boundaries of advanced Large Language Models.
+I approach frontier artificial intelligence not just as software, but as high-dimensional informational architecture. Drawing on a background in design methodology and spatial systems thinking, I lead **Architecting AI org**—an independent research lab dedicated to mapping the capabilities, structural limitations, and alignment boundaries of advanced Large Language Models.
 
 My research focuses on the systemic vulnerabilities that traditional computer science pipelines frequently miss. By combining architectural design methodology with adversarial alignment stress-testing, I expose perimeter-only blind spots to help build more resilient, structurally aligned AI infrastructure.
 
